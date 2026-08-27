@@ -1,16 +1,30 @@
-## Hi there 👋
+👾  ALI AHMED // COMPUTER ENGINEER 
 
-<!--
-**iraqi-man1/iraqi-man1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I’m Ali Ahmed 🇮🇶
+A Computer Engineer from Iraq, passionate about building software, exploring new technologies, and turning ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+└─ B.Sc. in Computer Techniques Engineering
+└─ Interested in Embedded Systems, AI & Software Development
+
+⚙️ Tools & Technologies
+└─ Python • JavaScript • TypeScript
+└─ React • Next.js • Flutter
+└─ Supabase • Firebase
+└─ Arduino & Embedded Systems
+└─ Git • GitHub • VS Code
+└─ AI Coding Tools
+
+🚀 What I Do
+└─ Web Development
+└─ Software & App Development
+└─ AI-assisted Development
+└─ Embedded Systems & Arduino
+└─ Building and experimenting with new ideas
+
+📡 CONNECT WITH ME
+├─ 📸 Instagram → @engali404
+
+┌──[ ali@github ]─[ ~/projects ]
+└─$ build → learn → improve → repeat █
