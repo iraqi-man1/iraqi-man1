@@ -27,4 +27,4 @@ A Computer Engineer from Iraq, passionate about building software, exploring new
 ├─ 📸 Instagram → @engali404
 
 ┌──[ ali@github ]─[ ~/projects ]
-└─$ build → learn → improve → repeat █
+└─$ build → learn → improve → repeat 
