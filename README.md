@@ -32,6 +32,7 @@ A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19,
 
 ## 📫 Get in touch
 - GitHub: [@iraqi-man1](https://github.com/iraqi-man1)
+- LinkedIn: [Ali Ahmed (ali-ahmed-saray)](https://www.linkedin.com/in/ali-ahmed-saray/)
 - Instagram: [@eng.ali404](https://instagram.com/eng.ali404)
 
 ---
