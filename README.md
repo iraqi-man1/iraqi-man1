@@ -20,13 +20,6 @@ A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19,
 
 ---
 
-## 📊 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iraqi-man1&show_icons=true&theme=swift&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iraqi-man1&layout=compact&theme=swift&hide_border=true)
-
----
-
 ## 🌱 Currently learning / working on
 - My **MSc research at Universiti Sains Malaysia (USM)**
 - Growing the **Dental Clinic Manager** SaaS (scheduling, billing & inventory)
