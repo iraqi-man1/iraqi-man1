@@ -20,12 +20,27 @@ A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19,
 
 ---
 
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iraqi-man1&show_icons=true&theme=swift&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iraqi-man1&layout=compact&theme=swift&hide_border=true)
+
+---
+
+## 🌱 Currently learning / working on
+- My **MSc research at Universiti Sains Malaysia (USM)**
+- Growing the **Dental Clinic Manager** SaaS (scheduling, billing & inventory)
+- Deepening skills in **Next.js, Supabase & PostgreSQL Row-Level Security**
+
+---
+
 ## 🛠 Tech Stack
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Recharts`
 
 ## 📫 Get in touch
 - GitHub: [@iraqi-man1](https://github.com/iraqi-man1)
+- Instagram: [@eng.ali404](https://instagram.com/eng.ali404)
 
 ---
 
-> *Building tools that turn everyday chores into one-click workflows — one commit at a time.*
+> 💡 Fun fact: I'm an Iraqi building healthcare software while studying in Malaysia — proof that good ideas travel further than borders.
