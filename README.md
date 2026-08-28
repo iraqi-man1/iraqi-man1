@@ -1,30 +1,31 @@
-👾  ALI AHMED // COMPUTER ENGINEER 
+# Hi there, I'm Ali Ahmed 👋
 
+**MSc student at Universiti Sains Malaysia (USM)** · Aspiring software engineer who enjoys building practical, real-world applications that make everyday work a little simpler.
 
-Hi, I’m Ali Ahmed 🇮🇶
-A Computer Engineer from Iraq, passionate about building software, exploring new technologies, and turning ideas into real-world projects.
+---
 
-🎓 Education
-└─ B.Sc. in Computer Techniques Engineering
-└─ Interested in Embedded Systems, AI & Software Development
+## 🚀 Featured Project: Dental Clinic Manager
 
-⚙️ Tools & Technologies
-└─ Python • JavaScript • TypeScript
-└─ React • Next.js • Flutter
-└─ Supabase • Firebase
-└─ Arduino & Embedded Systems
-└─ Git • GitHub • VS Code
-└─ AI Coding Tools
+A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19, TypeScript, Tailwind CSS 4, and Supabase**.
 
-🚀 What I Do
-└─ Web Development
-└─ Software & App Development
-└─ AI-assisted Development
-└─ Embedded Systems & Arduino
-└─ Building and experimenting with new ideas
+[![Dental Clinic Manager](https://img.shields.io/badge/Code-Dental%20Clinic%20Manager-0ea5e9?style=for-the-badge&logo=github)](https://github.com/iraqi-man1/Dental-Clinic-Manager)
 
-📡 CONNECT WITH ME
-├─ 📸 Instagram → @engali404
+### ✨ Highlights
+- 🦷 Interactive 32-tooth odontogram with clinical conditions & treatments
+- 📅 Drag-and-drop appointment scheduling with live procedure pricing
+- 💳 Partial / full payments, balance safeguards & printable receipts
+- 📦 Inventory management with low-stock alerts
+- 🔐 Tenant isolation enforced via PostgreSQL Row-Level Security
+- 🌐 Full English / Arabic (RTL) localization
 
-┌──[ ali@github ]─[ ~/projects ]
-└─$ build → learn → improve → repeat 
+---
+
+## 🛠 Tech Stack
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Recharts`
+
+## 📫 Get in touch
+- GitHub: [@iraqi-man1](https://github.com/iraqi-man1)
+
+---
+
+> *Building tools that turn everyday chores into one-click workflows — one commit at a time.*
