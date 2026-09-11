@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Ahmed 👋
 
-**MSc student at Universiti Sains Malaysia (USM)** · Aspiring software engineer who enjoys building practical, real-world applications that make everyday work a little simpler.
+ Aspiring software engineer who enjoys building practical, real-world applications that make everyday work a little simpler.
 
 ---
 
