@@ -21,7 +21,6 @@ A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19,
 ---
 
 ## 🌱 Currently learning / working on
-- My **MSc research at Universiti Sains Malaysia (USM)**
 - Growing the **Dental Clinic Manager** SaaS (scheduling, billing & inventory)
 - Deepening skills in **Next.js, Supabase & PostgreSQL Row-Level Security**
 
