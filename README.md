@@ -1,46 +1,24 @@
-<h1 align="center">Hi, I'm Ali Ahmed</h1>
+# Ali Ahmed
 
-<p align="center">
-  Aspiring software engineer building practical web applications for healthcare, personal finance, and everyday work.
-</p>
+I build practical software with a focus on clean interfaces, reliable workflows, and useful details.
 
-<p align="center">
-  Iraq · English and Arabic interfaces · Product-focused web development
-</p>
+## Projects
 
----
+### Folio Local PDF Suite
+An offline-first PDF toolkit for Windows. View, merge, split, reorder, convert, compress, annotate, and protect PDFs with local processing and Arabic/English support.
 
-## Featured projects
+- Built with React, TypeScript, Vite, PDF.js, pdf-lib, and qpdf WebAssembly
+- Project status: core PDF tools and the first two development phases are implemented; broader file-based verification is ongoing
+- [Repository](https://github.com/iraqi-man1/folio-local-pdf)
 
 ### BrightSmile Dental Clinic Manager
-A multi-tenant workspace for dental practices, with patient records, a 32-tooth odontogram, appointment scheduling, treatment plans, billing, inventory, and clinic reporting.
-
-**Built with:** Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL
-
-[View the project](https://github.com/iraqi-man1/Dental-Clinic-Manager)
+A desktop app for organizing clinic workflows, appointments, and patient records.
 
 ### Northstar Budget
-A bilingual English/Arabic budget tracker for income, expenses, savings, and goals. Financial records are protected with PostgreSQL Row Level Security, and balance-changing operations use atomic database functions.
+A personal finance app for tracking spending and keeping budgets clear.
 
-**Built with:** React · TypeScript · Vite · Supabase · PostgreSQL
+## Focus
 
-[View the project](https://github.com/iraqi-man1/northstar-budget-tracker) · [Open the app](https://northstar-budget-ali-ahmed.netlify.app)
-
----
-
-## What I focus on
-
-- Building useful, end-to-end web applications
-- Clear, responsive interfaces with Arabic and English support
-- Reliable data handling and access control
-- Turning real workflows into simple product experiences
-
-## Tools
-
-`TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/ali-ahmed-saray/)
-- [Instagram](https://instagram.com/eng.ali404)
-- [GitHub](https://github.com/iraqi-man1)
+- Frontend and desktop application development
+- Local-first, privacy-conscious tools
+- Thoughtful support for Arabic and English interfaces
