@@ -1,39 +1,46 @@
-# Hi there, I'm Ali Ahmed 👋
+<h1 align="center">Hi, I'm Ali Ahmed</h1>
 
- Aspiring software engineer who enjoys building practical, real-world applications that make everyday work a little simpler.
+<p align="center">
+  Aspiring software engineer building practical web applications for healthcare, personal finance, and everyday work.
+</p>
 
----
-
-## 🚀 Featured Project: Dental Clinic Manager
-
-A responsive, multi-tenant dental clinic SaaS built with **Next.js 16, React 19, TypeScript, Tailwind CSS 4, and Supabase**.
-
-[![Dental Clinic Manager](https://img.shields.io/badge/Code-Dental%20Clinic%20Manager-0ea5e9?style=for-the-badge&logo=github)](https://github.com/iraqi-man1/Dental-Clinic-Manager)
-
-### ✨ Highlights
-- 🦷 Interactive 32-tooth odontogram with clinical conditions & treatments
-- 📅 Drag-and-drop appointment scheduling with live procedure pricing
-- 💳 Partial / full payments, balance safeguards & printable receipts
-- 📦 Inventory management with low-stock alerts
-- 🔐 Tenant isolation enforced via PostgreSQL Row-Level Security
-- 🌐 Full English / Arabic (RTL) localization
+<p align="center">
+  Iraq · English and Arabic interfaces · Product-focused web development
+</p>
 
 ---
 
-## 🌱 Currently learning / working on
-- Growing the **Dental Clinic Manager** SaaS (scheduling, billing & inventory)
-- Deepening skills in **Next.js, Supabase & PostgreSQL Row-Level Security**
+## Featured projects
+
+### BrightSmile Dental Clinic Manager
+A multi-tenant workspace for dental practices, with patient records, a 32-tooth odontogram, appointment scheduling, treatment plans, billing, inventory, and clinic reporting.
+
+**Built with:** Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL
+
+[View the project](https://github.com/iraqi-man1/Dental-Clinic-Manager)
+
+### Northstar Budget
+A bilingual English/Arabic budget tracker for income, expenses, savings, and goals. Financial records are protected with PostgreSQL Row Level Security, and balance-changing operations use atomic database functions.
+
+**Built with:** React · TypeScript · Vite · Supabase · PostgreSQL
+
+[View the project](https://github.com/iraqi-man1/northstar-budget-tracker) · [Open the app](https://northstar-budget-ali-ahmed.netlify.app)
 
 ---
 
-## 🛠 Tech Stack
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Recharts`
+## What I focus on
 
-## 📫 Get in touch
-- GitHub: [@iraqi-man1](https://github.com/iraqi-man1)
-- LinkedIn: [Ali Ahmed (ali-ahmed-saray)](https://www.linkedin.com/in/ali-ahmed-saray/)
-- Instagram: [@eng.ali404](https://instagram.com/eng.ali404)
+- Building useful, end-to-end web applications
+- Clear, responsive interfaces with Arabic and English support
+- Reliable data handling and access control
+- Turning real workflows into simple product experiences
 
----
+## Tools
 
-> 💡 Fun fact: I'm an Iraqi building healthcare software while studying in Malaysia — proof that good ideas travel further than borders.
+`TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/ali-ahmed-saray/)
+- [Instagram](https://instagram.com/eng.ali404)
+- [GitHub](https://github.com/iraqi-man1)
